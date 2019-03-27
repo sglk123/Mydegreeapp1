@@ -13,6 +13,8 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity {
 
     // test
+
+    // Eric Test
     
     EditText mTextUsername;
     EditText mTextPassword;
